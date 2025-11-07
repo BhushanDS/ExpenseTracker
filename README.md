@@ -1,5 +1,5 @@
 # ExpenseTracker
-Track you Expense
+Track your Expense
 
 ## High-LEvel Design
 ### 1. Overview:
